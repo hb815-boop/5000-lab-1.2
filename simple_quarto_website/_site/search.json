@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Table of Contents1\nPart 1 …………………………………………………………………………………………………… Equations\nPart 2 …………………………………………………………………………………………………… Bullets & Table\nPart 3 …………………………………………………………………………………………………… Columns"
+  },
+  {
+    "objectID": "index.html#part-2",
+    "href": "index.html#part-2",
+    "title": "simple_quarto_website",
+    "section": "Part 2",
+    "text": "Part 2\nThis is part two of the quarto website. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n\nVideo\nThis is a stock image of lava; the website claims that it is not AI.\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\nQuisque faucibus ex sapien vitae pellentesque sem placerat.\n\nIn id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.\n\nPulvinar vivamus fringilla lacus nec metus bibendum egestas.\nIaculis massa nisl malesuada lacinia integer nunc posuere.\n\nUt hendrerit semper vel class aptent taciti sociosqu.\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n\n\nColumn 1\nColumn 2\n\n\n\n\nitem 1a\nitem 2a\n\n\nitem 1b\nitem 2b\n\n\nitem 1c\nitem 2c\n\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\nPart 3\n\n\n\nThis is part three of the quarto website. Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n\n\nThis is an AI generated image of cinnamon and star anise from Canva.\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.\n\nLorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is a page made by Haleigh.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#this-is-the-first-slide",
+    "href": "slides/slides.html#this-is-the-first-slide",
+    "title": "Title slide",
+    "section": "This is the first slide",
+    "text": "This is the first slide\n\nThis is a bullet point"
+  },
+  {
+    "objectID": "slides/slides.html#this-is-the-second-slide",
+    "href": "slides/slides.html#this-is-the-second-slide",
+    "title": "Title slide",
+    "section": "This is the second slide",
+    "text": "This is the second slide\n\nA bullet point (Pakkir Shah et al. 2025)"
+  },
+  {
+    "objectID": "slides/slides.html#jupyter-notebook",
+    "href": "slides/slides.html#jupyter-notebook",
+    "title": "Title slide",
+    "section": "Jupyter Notebook",
+    "text": "Jupyter Notebook\n\nThis is a Juypter notebook exercise\nSlides were made during the exercise\n\n\n\n\n\nPakkir Shah, Abzer K, Axel Walter, Filip Ottosson, Francesco Russo, Marcelo Navarro-Diaz, Judith Boldt, Jarmo-Charles J Kalinski, et al. 2025. “Statistical Analysis of Feature-Based Molecular Networking Results from Non-Targeted Metabolomics Data.” Nature Protocols 20 (1): 92–162."
+  }
+]
